@@ -1,0 +1,6 @@
+/target/
+.idea/
+assisted-corporate-onboarding.iml
+/logs/
+test-output/
+web-automation.iml
